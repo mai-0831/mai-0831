@@ -10,11 +10,11 @@ I am a master's student at Shibaura Institute of Technology.
 My research is sensor fusion with LiDAR and camera.<br><br>
 
 ### 🔭 My skills
-C++
-PCL
+* C++
+* PCL
 
 ### 🌱 Currently learning
-ROS
-Python
-Deep Learning
+* ROS
+* Python
+* Deep Learning
 
