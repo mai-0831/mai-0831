@@ -12,9 +12,9 @@ My research is sensor fusion with LiDAR and camera.<br><br>
 ### 🔭 My skills
 * C++
 * PCL
+* ROS
 
 ### 🌱 Currently learning
-* ROS
 * Python
 * Deep Learning
 
